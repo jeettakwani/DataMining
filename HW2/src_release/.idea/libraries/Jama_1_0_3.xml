@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Jama-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../HW1/DataMiningAlgorithms_Release/libraries/Jama-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../HW1/DataMiningAlgorithms_Release/libraries/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
